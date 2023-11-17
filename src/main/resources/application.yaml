@@ -1,0 +1,8 @@
+spring:
+  profile:
+    active: init
+
+contactsList:
+  fileName:
+    in: src/main/resources/default-contacts.txt
+    out: src/main/resources/out-contacts.txt
